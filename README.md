@@ -1,2 +1,2 @@
-## Login forms using react.js hooks
-A project to demonstrate basic react.js hooks
+## Login forms using ReactJS and Hooks
+A project to demonstrate basic ReactJS and Hooks
